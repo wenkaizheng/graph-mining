@@ -1,3 +1,8 @@
+'''
+Author: Wenkai Zheng
+Email: zwkzmj@gmail.com
+Purpose: Graph analyse and visulization through a social network.
+'''
 import networkx as nx
 import csv
 import numpy as np
